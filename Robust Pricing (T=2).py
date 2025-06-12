@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 25 17:33:17 2025
-
-@author: gauthierberanger
-"""
 
 import numpy as np
 import gurobipy as gp
